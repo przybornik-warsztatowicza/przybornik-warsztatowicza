@@ -1,0 +1,47 @@
+      🐔🔧 PRZYBORNIK WARSZTATOWICZA 🔧🐔
+Przybornik powstał w celu ułatwienia tworzenia wszelakiego reksiowego kontentu.
+Wiele rzeczy, które zawiera można znaleźć na #warsztat-koguta na PRD, ale często
+zdarza się, że nowi użytkownicy (lub nawet stalsi bywalcy) nie wiedzą jakie dobra
+skrywa.
+
+	⚙️🔧 PRZYDATNE NARZĘDZIA 🔧⚙️
+1) Strona Myśliwego z klatkami animacji z "Przygód Reksia".
+   LINK: mysliwy112.github.io/
+2) Dysk Google z plikami IMG z "Przygód Reksia".
+   LINK: drive.google.com/drive/folders/1z0M8z1urpdIzxrJz_9HS-bBTSaxNMXXR
+3) Rekskrypcja
+   LINK: docs.google.com/spreadsheets/d/1BXuMp7Up4hjnd4VAY7lZmCvyni14bAhkc8t8yWohowY/edit?gid=0#gid=0
+4) Playlista z tutorialami modowania "Przygód Reksia".
+   LINK: www.youtube.com/playlist?list=PL2yH5_nRkFqxJJwoFAuDhx_a2b2HN220_
+5) Andrzem (służy do wyciągania plików ANN i IMG - to samo co w punktach 1 i 2).
+   LINK: github.com/mysliwy112/AM-transcoder
+
+        ☝️🤓 ZASADY KORZYSTANIA 🤓☝️
+Pamiętaj, aby korzystając z plików wyjętych z gier, wspomnieć
+o ich autorach:
+   Muzyka:  Bartek Brosz
+   Rysunki: Bartek Brosz, lub Arleta Rogalska
+   Wydawca: BoomBit (dawniej Aidem Media).
+Podobnie jeśli korzystasz z wizerunku Reksia:
+   Autorem Reksia jest Lechosław Marszałek. Reksio jest własnością Haliny Filek-Marszałek.
+Jeśli korzystasz z moich modeli, będzie mi miło jeśli wspomnisz o mnie
+w opisie gry, filmu... czy czegokolwiek do czego je wykorzystasz.
+   Autor modeli - Swerszcz (swerszcz.itch.io)
+
+   ⚙️🔨 AUTORZY PRZYBORNIKA I JEGO ZAWARTOŚCI 🔨⚙️
+	 Opracowanie przybornika - Swerszcz
+		Modele 3D - Swerszcz
+    Pliki IMG pobrano z dysku autorstwa Myśliwego.
+ Kwestie do nazw plików audio kopiowano z Rekskrypcji.
+	  Niesamowity skrypt automatyzujący 
+      nazewnictwo plików audio autorstwa Dove'a.
+	  Muzyka autorstwa Bartka Brosza
+Rysunki autorstwa Bartka Brosza, oraz Arlety Rogalskiej
+Pliki audio, oraz obrazki pochodzą z gier z serii "Przygody Reksia"
+   wydanych przez firmę BoomBit (dawniej Aidem Media).
+         Autorem Reksia jest Lechosław Marszałek. 
+       Reksio jest własnością Haliny Filek-Marszałek.
+
+----------------------------------------------------------------------
+🦗 Przybornik Warsztatowicza 01.08.2025 Wersja 1.0 by swerszcz. 🦗
+Do strony niechętnie przyznaje się komor (pr-y żeby była bardziej znośna mile widziane)
